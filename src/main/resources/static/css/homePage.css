@@ -1,0 +1,8 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+div { width: 50%; height: 50%; float: left; }
+#container1 { background: #DDD; }
+#container2 { background: #AAA; }
+#container3 { background: #777; }
+#container4 { background: #555; }
+#container5 { background: #666; }
+#container6 { background: #888; }
